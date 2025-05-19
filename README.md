@@ -53,8 +53,3 @@ Scrapes hockey team names and details from [scrapethissite.com](https://scrapeth
 > 📌 *Each folder contains its own `README.md` file with setup instructions and details.*
 
 ---
-
-## 📄 License
-
-This repository is for educational purposes and personal learning.  
-🔓 MIT License (optional – you can add one if you like).
