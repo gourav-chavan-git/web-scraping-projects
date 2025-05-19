@@ -39,8 +39,8 @@ This project scrapes the top posts from the [r/algorithms](https://www.reddit.co
    REDDIT_CLIENT_SECRET = "your_client_secret"
    REDDIT_USER_AGENT = "your_user_agent"
 
-How to Run
-Install dependencies:
-pip install praw pandas
-Run the script:
-python reddit_scraper.py
+## How to Run
+# Install dependencies:
+- pip install praw pandas
+# Run the script:
+- python reddit_scraper.py
